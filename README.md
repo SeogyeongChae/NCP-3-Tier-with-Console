@@ -1,4 +1,5 @@
 # NCP-3-Tier-with-Console
+* 3-tier deployment using the NCP console
 
 ## 0. 3-Tier 구성
 ![image](https://user-images.githubusercontent.com/110655818/217449649-b64274b3-3b38-43f4-af9e-6c403fca8371.png)
